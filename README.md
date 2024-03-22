@@ -11,11 +11,11 @@
 <p align="center">
 </p>
 
-## About Blog Platform 📲
+## About Blog Platform  📲
 
 Blog Platform is a cutting-edge solution for bloggers and writers who seek a straightforward, elegant platform for sharing their thoughts with the world. Our platform is designed with ease of use in mind, providing a seamless writing and publishing experience.
 
-### Features 🚀
+### Features  🚀
 
 - Real-time content updating with Livewire.
 - Responsive, mobile-friendly design.
@@ -23,7 +23,7 @@ Blog Platform is a cutting-edge solution for bloggers and writers who seek a str
 - SEO optimized for better reach.
 - Customizable themes to fit your style.
 
-## Getting Started 🧑‍💻
+## Getting Started  🧑‍💻
 
 ### Prerequisites
 
