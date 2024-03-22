@@ -36,3 +36,31 @@ Blog Platform is a cutting-edge solution for bloggers and writers who seek a str
 1. Clone the repository
    ```sh
    git clone https://github.com/your-username/blog-platform.git
+
+2. Navigate to the project directory
+   ```sh
+   cd blog-platform
+3. Install PHP dependencies
+   ```sh
+   composer install
+4. Install NPM packages
+   ```sh
+   npm install
+5. Copy the example environment file and make the necessary configuration changes in the '.env' file
+   ```sh
+   cp .env.example .env
+6. Generate a new application key
+   ```sh
+   php artisan key:generate
+7. php artisan key:generate
+   ```sh
+   php artisan migrate
+8. Seed the database with some initial data
+   ```sh
+   php artisan db:seed
+9. Start the local development server
+   ```sh
+   php artisan serve
+
+License
+This project is open-sourced software licensed under the MIT license.
