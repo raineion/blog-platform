@@ -1,5 +1,3 @@
-[![Laravel](https://github.com/raineion/blog-platform/actions/workflows/laravel.yml/badge.svg)](https://github.com/raineion/blog-platform/actions/workflows/laravel.yml)
-
 <p align="center">
   <img src="blog-logo.webp" width="200" alt="Blog Platform Logo">
 </p>
