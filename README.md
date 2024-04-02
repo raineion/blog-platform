@@ -25,7 +25,7 @@ Blog Platform is a cutting-edge solution for bloggers and writers who seek a str
 
 ## Getting Started 🧑‍💻
 
-### Prerequisites
+### Prerequisitesn ⚙️
 
 - PHP ^7.4|^8.0
 - Composer
